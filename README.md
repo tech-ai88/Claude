@@ -8,7 +8,7 @@
   - [설치방법](https://docs.google.com/presentation/d/1PCTdQr06Go7BrQQZxLf0vq9TOzgIA4TedlFLE2yBXf4/edit?usp=drive_link)
   - [설치파일](https://drive.google.com/file/d/19B6GUjWIL6gcKJASrNYnjeiLjlqqxDzr/view?usp=drive_link) <br><br>
 
-- 크롬 드라이버 각자 버전에 맞기
+- 크롬 드라이버 각자 버전에 맞게 다운로드
   - 크롬 웹 브라우저 점(3) 도움말  >> Chrome 정보 확인
   -  https://developer.chrome.com/docs/chromedriver/downloads?hl=ko
 
